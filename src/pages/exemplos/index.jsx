@@ -1,7 +1,8 @@
+
 export default function Exemplos () {
-    return(
+    return (
         <div>
             <h1>Exemplos</h1>
         </div>
-    )
+    );
 }

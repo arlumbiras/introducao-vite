@@ -1,7 +1,8 @@
+
 export default function Atividades () {
-    return(
+    return (
         <div>
             <h1>Atividades</h1>
         </div>
-    )
+    );
 }
